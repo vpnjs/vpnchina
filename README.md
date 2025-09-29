@@ -145,7 +145,7 @@
 
 ### 回国VPN首选：<a href="https://shandianjiasu.net/?source=github|vpnchina" rel="nofollow">闪电VPN - 全球150多条线路，连接稳定且速度快，很适合看视频和玩游戏</a>
 
-![闪电VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/Speedin-VPN.jpg)
+![闪电VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/Speedin-VPN.jpg)
 ## 闪电VPN：专为海外华人打造的回国VPN
 
 闪电VPN成立于2012年，是专为海外华人设计的老牌回国VPN服务。目前拥有超过 **3.2亿终端用户** 和 **1100万海外华人用户**，业务覆盖全球6大洲20个国家和40座城市，并部署了 **150+ 专属高速节点**，确保提供稳定流畅的连接。
@@ -261,7 +261,7 @@
 
 ### 回国VPN（二）：<a href="https://chaoshenjiasu.com/?source=github|vpnchina" rel="nofollow">超神VPN - 多平台支持，价格相对便宜一点，性价比高</a>
 
-![超神VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/Transocks-VPN.jpg)
+![超神VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/Transocks-VPN.jpg)
 
 ## 超神VPN：海外华人的高性价比回国VPN
 
@@ -329,7 +329,7 @@
 
 ### 回国VPN（三）：<a href="https://feimajiasu.com/?source=github|vpnchina" rel="nofollow">飞马VPN - 客户体验好，动态加速技术，稳定不丢包</a>
 
-![飞马VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/飞马VPN.jpg)
+![飞马VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/飞马VPN.jpg)
 
 ## 飞马VPN：新兴但值得信赖的回国VPN服务
 
@@ -394,7 +394,7 @@
 
 ### 回国VPN（四）：<a href="https://xiyoujiasu.com/?source=github|vpnchina" rel="nofollow">西柚VPN – 可翻墙出国，也可以翻墙回国，2.11美金/月</a>
 
-![西柚VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/西柚VPN.jpg)
+![西柚VPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/西柚VPN.jpg)
 
 ## 西柚VPN：双向翻墙的多功能VPN服务
 
@@ -458,7 +458,7 @@
 
 ### 回国VPN（五）：<a href="https://shandianjiasu.net/?source=github|vpnchina" rel="nofollow">Sixfast – 也勉强可以用于翻墙回国</a>
 
-![SixfastVPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/SixFast.jpg)
+![SixfastVPN Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/SixFast.jpg)
 
 ## Sixfast：适合预算有限用户的回国VPN选择
 
@@ -503,7 +503,7 @@ Sixfast作为一款回国VPN，整体表现中规中矩。它不适合对速度�
 
 ### 回国VPN（六）：<a href="https://shandianjiasu.net/?source=github|vpnchina" rel="nofollow">QuickFox – 也勉强可以用于翻墙回国</a>
 
-![QuickFox Banner：翻墙回国教程，最好用的回国VPN推荐](https://raw.githubusercontent.com/chinavpns/vpnintochina/main/image/QuickFox.jpg)
+![QuickFox Banner：翻墙回国教程，最好用的回国VPN推荐](https://vpnjs.github.io/vpnassets/img/QuickFox.jpg)
 
 ## QuickFox：入门级回国VPN选择
 
